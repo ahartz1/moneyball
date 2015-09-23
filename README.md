@@ -4,33 +4,6 @@
 
 Put together an all-time best roster of cheap players who had great on base percentages
 
-## Tasks
-```markdown
-* [ ] Blank slate
-  * [ ] Create a GitHub repo called `moneyball`
-  * [ ] Copy all the files from this repo into it
-  * [ ] Set up your requirements/virtual environment
-  * [ ] Create a `data` folder and put the baseball statistics data into it
-* [ ] Normal mode
-  * [ ] Join together the relevant tables into DataFrame object(s)
-  * [ ] Calculate OBP of players and discard outliers
-  * [ ] Given a specific year, put together a 9-player roster that maximizes the OBP of the players while minimizing their salary
-  * [ ] Ensure that you have a complete roster with players who played at each position and that you aren't planning on using clones of players
-* [ ] Hard mode
-  * [ ] Adjust player salaries for inflation
-  * [ ] Build an all-star moneyball dream team using the adjusted salaries
-```
-
-## Objectives
-
-### Learning Objectives
-
-After completing this assignment, you should understand:
-
-* How to use public data for analysis
-* How to relate many datasets and perform analysis on the related data
-* How to publish your own data analysis as a notebook
-
 ### Performance Objectives
 
 After completing this assignment, you should be able to:
@@ -40,13 +13,6 @@ After completing this assignment, you should be able to:
 * Report your findings in a notebook in a professional manner.
 
 ## Details
-
-### Deliverables
-
-* A Git repo called moneyball containing at least:
-  * `README.md` file explaining how to run your project
-  * a `moneyball.ipynb` file showing your analysis
-  * a `requirements.txt` file
 
 ### Requirements
 
@@ -79,13 +45,13 @@ bad).  Your 9 player roster should include:
  - Catcher
 
 A player that historically played multiple positions can not account for 2 places on your roster.
-
+<!-- 
 ## Hard Mode
 
 In addition to the required objectives outlined above you should adjust each player's salary
 for inflation based on the year they earned the salary.
 
-Also you are required to put together an "all time best" legacy team based on their adjusted salary.
+Also you are required to put together an "all time best" legacy team based on their adjusted salary. -->
 
 #### Note
 
